@@ -1,1 +1,1 @@
-# book_recommender
+# book recommender system using collaborative filtering.
